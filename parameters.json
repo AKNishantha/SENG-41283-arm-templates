@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_azureNodeFuncApp_name": {
+            "value": null
+        },
+        "sites_service_three_app_name": {
+            "value": null
+        },
+        "Redis_redis_cache_server_name": {
+            "value": null
+        },
+        "components_AppMonitor_name": {
+            "value": null
+        },
+        "sites_azure_redis_cache_app_name": {
+            "value": null
+        },
+        "serverfarms_ASP_akGroup_86e7_name": {
+            "value": null
+        },
+        "serverfarms_ASP_akGroup_8948_name": {
+            "value": null
+        },
+        "frontdoors_uokseAzureStudent_name": {
+            "value": null
+        },
+        "servers_azure_mysql_server_conn_name": {
+            "value": null
+        },
+        "storageAccounts_storageaccountakgro89b7_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_policies_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "dashboards_92c5c2e8_3750_4b24_8855_d33d01d514a1_dashboard_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___appmonitor_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___azurenodefuncapp_name": {
+            "value": null
+        },
+        "components_azurenodefuncapp_externalid": {
+            "value": null
+        }
+    }
+}
